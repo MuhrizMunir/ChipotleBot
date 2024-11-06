@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "jars/KarelJRobot.jar"
+    ],
+    "git.ignoreLimitWarning": true
+}
